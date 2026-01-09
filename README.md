@@ -1,2 +1,0 @@
-# triethoc
-Ôn tập triết
